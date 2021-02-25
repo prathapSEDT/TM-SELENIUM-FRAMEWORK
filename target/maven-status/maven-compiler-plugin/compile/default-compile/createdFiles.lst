@@ -1,0 +1,8 @@
+com/applicationor/LoginOR.class
+com/testngannotation/Annotations.class
+com/readexcel/ReadExcelFile.class
+com/testcases/TC_01_SigninValidation.class
+com/genericmethods/WebUtils.class
+com/applicationor/HomePageOR.class
+com/applicationmodules/LoginPage.class
+com/applicationmodules/HomePage.class
